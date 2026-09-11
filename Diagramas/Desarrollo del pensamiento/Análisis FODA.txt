@@ -1,0 +1,23 @@
+Fortalezas:
+-La distribución de tablas ya existe
+-Los datos no son necesariamente complejos
+-Los equipos que poseerán los programas son equipos de calidad
+-El formato de importación/exportación de datos es sencillo por su propia cuenta
+
+Debilidades:
+-El internet no es necesariamente bueno
+-No poseen un alto tiempo de organización conjunta
+-A veces tienen que manejar los datos de manera remota, lo cual puede acomplejar el proyecto
+-No sé cómo adaptar programas a APIs (calendario de google, correo, etc.)
+
+Oportunidades:
+-El instituto posee un interés de apoyo
+-El programa puede ser instalable fácilmente al ser un proyecto sencillo
+-El proyecto puede ser readaptado a otras instancias
+
+Amenazas:
+-Las fallas de servicios como la luz
+-Posible sobrecarga de datos
+-Baja flexibilidad de trabajo repartido
+-La compatibilidad de los equipos puede variar
+-No tengo NI IDEA de cómo puedo adaptar este proyecto en un servicio (probablemente poco causal)

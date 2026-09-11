@@ -1,0 +1,36 @@
+Citas
+-ID cita
+-alumno
+-fecha
+-psicólogo a cargo
+-diagnóstico
+-notas
+-n° de cita
+-Status
+
+Psicólogo
+-ID psicólogo
+-nombre
+-correo
+-teléfono
+-contraseña (encriptado)
+
+Alumno
+-nombre
+-numero de control
+-teléfono
+-n° citas
+-status de suspensión
+
+Grupo
+-ID grupo
+-carrera
+-cuatrimestre
+-grupo
+-modalidad
+
+Tutorado
+-ID tutor
+-nombre
+-correo
+-telefono

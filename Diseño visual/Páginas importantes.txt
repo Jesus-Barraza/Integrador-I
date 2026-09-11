@@ -1,0 +1,19 @@
+Apartados importantes para el programa:
+- Inicio de sesión
+- Menú principal
+	- Citas
+		- Crear cita
+		- Modificar cita
+	- Calendario (posiblemente)
+		- Modificar anuncio (posiblemente)
+	- Notificaciones
+	- Configuración
+
+Colores:
+Blanco
+Negro
+Cremas
+Celeste
+Beige
+Café
+(El logo es multicolor, con colores pastel)

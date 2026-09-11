@@ -1,0 +1,14 @@
+-Manejo de datos (método)
+-Búsqueda de datos (medidas)
+-Manejo de citas (método)
+-No se encuentran los datos de las citas (datos)
+-El manejo de datos es erróneo (método)
+-Departamento de psicopedagogía no se coordina (mano de obra)
+-Departamento de psicopedagogía unifica los datos de manera errónea (datos, mano de obra)
+-Los datos se pierden (datos, maquinaria, medio ambiente)
+-Datos poco manejables (datos, método, medida)
+-El departamento de psicopedagogía no puede acceder a los datos (método, mano de obra)
+-El departamento de psicopedagogía no maneja los datos de manera correcta (método, datos, medidas, mano de obra)
+-Corrupción de datos de citas
+
+Mal manejo de citas
